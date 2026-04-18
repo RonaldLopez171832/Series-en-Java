@@ -1,5 +1,6 @@
 public class SeriesEjercicios {
 
+    //18 DE ABRIL
     // =====================================================
     // FUNCIÓN AUXILIAR PARA SABER SI UN NÚMERO ES PRIMO
     // =====================================================
